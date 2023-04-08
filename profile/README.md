@@ -12,6 +12,14 @@ You can find The road map at [DevOps Ultimate](https://github.com/ahmadalibagher
 
 ## List of courses
 
-| Course Name            | Repository                                                                | Description                                | Constructor |
-| ---------------------- | ------------------------------------------------------------------------- | ------------------------------------------ | ----------- |
-| Terraform Zero To Hero | [terraform-tutorial](https://github.com/devopshobbies/terraform-tutorial) | Everything you need to know from terraform |
+| Course Name                 | Repository                                                                              | Youtube                                                                                         |
+| --------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Terraform From Zero To Hero | [terraform-tutorial](https://github.com/devopshobbies/terraform-tutorial)               | [PlayList](https://youtube.com/playlist?list=PLYrn63eEqAzZssgLu8Um_k1v8Pvh7-l7b)                |
+| MinIO                       | [MinIO-tutorial](https://github.com/devopshobbies/MinIO-tutorial)                       | [PlayList](https://www.youtube.com/watch?v=y4of6U-mdVQ&list=PLYrn63eEqAzaS7mHcJh7GPOFWcLHLxlfE) |
+| NetOps                      | [NetOps Roadmap](https://github.com/devopshobbies/MinIO-tutorial)                       | [PlayList](https://youtube.com/playlist?list=PLYrn63eEqAzaydfpPB9tTFVTUTkneP6EN)                |
+| Django + Docker CD/CI       | [django-ci-cd-EmbedProject](https://github.com/devopshobbies/django-ci-cd-EmbedProject) | [PlayList](https://youtube.com/playlist?list=PLYrn63eEqAzY5uG5ks_OquWcojzHvhp9Z)                |
+| AWZ                         | -----------------                                                                       | [PlayList](https://youtube.com/playlist?list=PLYrn63eEqAzYkIa-FUZ2Jaq94ac9qlS0l)                |
+| AWZ Webinar                 | [aws-webinar](https://github.com/devopshobbies/aws-webinar)                             | [PlayList](https://youtube.com/playlist?list=PLYrn63eEqAzaCqGENAmDSrLwpTxQV0RIx)                |
+| Teamcity server             | -----------------                                                                       | [PlayList](https://youtube.com/playlist?list=PLYrn63eEqAzaJnZaUw2QkOgpkiwRjYIvC)                |
+| Docker                      | [docker-templates](https://github.com/devopshobbies/docker-templates)                   | [PlayList](https://youtube.com/playlist?list=PLYrn63eEqAzY8kqHVepGiVUrTmE0wjLII)                |
+| Ansible                     | -----------------                                                                       | [PlayList](https://youtube.com/playlist?list=PLYrn63eEqAzb4NrSDKlyJvG_I7cbNdW1l)                |
