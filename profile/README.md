@@ -8,7 +8,7 @@ DevOps Hobbies is an open-source community focused on providing free educational
 ## Project Roadmap
 
 We as a DevOps Community prepared a completed road map for whoever likes to start his/shes journey to become a DevOps Engineer.
-You can find The road map at [DevOps Ultimate](https://github.com/ahmadalibagheri/devops-roadmap) Roadmap](https://github.com/ahmadalibagheri/devops-roadmap)
+You can find The road map at [DevOps Ultimate](https://github.com/ahmadalibagheri/devops-roadmap)
 
 ## List of courses
 
