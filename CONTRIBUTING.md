@@ -33,6 +33,13 @@ Please follow these guidelines when contributing to this repository:
 - If your changes require new dependencies or modify existing ones, please update the `relevant documentation`.
 - If your changes address any open issues or pull requests, please reference them in your commit message or pull request description.
 
+## Commit and Branch naming conventions:
+
+`DevOps Hobbies` open-source community is trying to increase the readability of commits, and for this goal, we are using Conventional Commits rules. If you are not familiar with [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), please check the link to learn more about them and consider using these rules for commit naming.
+
+Also for branch naming you can follow this convention:
+![Convention](https://miro.medium.com/max/640/1*bmeCQ9RKVpuLAqZHiVocxg.webp)
+
 ## Code of Conduct
 
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms. The code of conduct can be found in the [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) file.
