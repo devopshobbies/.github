@@ -4,11 +4,11 @@
 [![Telegram channel](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/DevOpsHobbies)
 [![Telegram channel](https://img.shields.io/badge/Linkedin-Page-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/devopshobbies/)
 
-DevOps Hobbies is an open-source community focused on providing free educational content on DevOps tools. Our goal is to foster collaboration, exchange of ideas, and knowledge sharing among DevOps enthusiasts. We welcome contributions from anyone who shares our passion for DevOps. Join us today to learn from experts, access informative content, and become a part of our thriving community.
+DevOps Hobbies is an open-source community founded by [Ahmad Ali Bagheri](https://github.com/ahmadalibagheri), a dedicated DevOps enthusiast. Under his leadership, our community is committed to providing free educational content on DevOps tools. Our goal is to foster collaboration, exchange of ideas, and knowledge sharing among DevOps enthusiasts. We welcome contributions from anyone who shares our passion for DevOps. Join us today to learn from experts, access informative content, and become a part of our thriving community.
 
 ## Project Roadmap
 
-We as a DevOps Community prepared a completed road map for whoever likes to start his/shes journey to become a DevOps Engineer.
+We as a DevOps Community prepared a completed road map for whoever would like to start his/her journey to become a DevOps Engineer.
 
 - [DevOps Ultimate Roadmap](https://github.com/devopshobbies/devops-roadmap).
 - [NetOps Roadmap](https://github.com/devopshobbies/devops-roadmap).
@@ -27,7 +27,7 @@ DevOps Hobbies community is providing free courses and is trying to leverage the
 | <img width="30px" src="https://www.svgrepo.com/download/373554/django.svg">                                           | Django + Docker CD/CI       | [django-ci-cd-EmbedProject](https://github.com/devopshobbies/django-ci-cd-EmbedProject) | [Youtube play list](https://youtube.com/playlist?list=PLYrn63eEqAzY5uG5ks_OquWcojzHvhp9Z)                | Pending |
 | <img width="30px" src="https://www.svgrepo.com/download/452192/docker.svg">                                           | Docker                      | [docker-templates](https://github.com/devopshobbies/docker-templates)                   | [Youtube play list](https://youtube.com/playlist?list=PLYrn63eEqAzY8kqHVepGiVUrTmE0wjLII)                | Pending |
 | <img width="30px" src="https://resources.jetbrains.com/storage/products/teamcity/img/meta/teamcity_logo_300x300.png"> | Teamcity server             | -----------------                                                                       | [Youtube play list](https://youtube.com/playlist?list=PLYrn63eEqAzaJnZaUw2QkOgpkiwRjYIvC)                | Pending |
-| <img width="30px" src="https://www.svgrepo.com/download/373429/ansible.svg">                                          | Ansible                     | -----------------                                                                       | [Youtube play list](https://youtube.com/playlist?list=PLYrn63eEqAzb4NrSDKlyJvG_I7cbNdW1l)                | Pending |
+| <img width="30px" src="https://www.svgrepo.com/download/373429/ansible.svg">                                          | Zabbix + Grafana            | -----------------                                                                       | [Youtube play list](https://www.youtube.com/playlist?list=PLYrn63eEqAzaEkGmYAn6StHk4rqVEjd_g)            | Running |
 
 ## Contributing
 
