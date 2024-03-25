@@ -11,7 +11,7 @@ DevOps Hobbies is an open-source community founded by [Ahmad Ali Bagheri](https:
 We as a DevOps Community prepared a completed road map for whoever would like to start his/her journey to become a DevOps Engineer.
 
 - [DevOps Ultimate Roadmap](https://github.com/devopshobbies/devops-roadmap).
-- [NetOps Roadmap](https://github.com/devopshobbies/devops-roadmap).
+- [NetOps Roadmap](https://github.com/devopshobbies/netops-roadmap).
 
 ## List of courses
 
@@ -19,8 +19,8 @@ DevOps Hobbies community is providing free courses and is trying to leverage the
 
 | Icon                                                                                                                  | Course Name                 | Repository                                                                              | Youtube                                                                                                  | Status  |
 | --------------------------------------------------------------------------------------------------------------------- | --------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------- |
-| <img width="30px" src="https://www.svgrepo.com/download/331300/aws.svg">                                              | AWZ                         | -----------------                                                                       | [Youtube play list](https://youtube.com/playlist?list=PLYrn63eEqAzYkIa-FUZ2Jaq94ac9qlS0l)                | Pending |
-| <img width="30px" src="https://www.svgrepo.com/download/281711/meeting-interview.svg">                                | AWZ Webinar                 | [aws-webinar](https://github.com/devopshobbies/aws-webinar)                             | [Youtube play list](https://youtube.com/playlist?list=PLYrn63eEqAzaCqGENAmDSrLwpTxQV0RIx)                | Pending |
+| <img width="30px" src="https://www.svgrepo.com/download/331300/aws.svg">                                              | AWS                         | -----------------                                                                       | [Youtube play list](https://youtube.com/playlist?list=PLYrn63eEqAzYkIa-FUZ2Jaq94ac9qlS0l)                | Pending |
+| <img width="30px" src="https://www.svgrepo.com/download/281711/meeting-interview.svg">                                | AWS Webinar                 | [aws-webinar](https://github.com/devopshobbies/aws-webinar)                             | [Youtube play list](https://youtube.com/playlist?list=PLYrn63eEqAzaCqGENAmDSrLwpTxQV0RIx)                | Pending |
 | <img width="30px" src="https://www.svgrepo.com/download/354447/terraform-icon.svg">                                   | Terraform From Zero To Hero | [terraform-tutorial](https://github.com/devopshobbies/terraform-tutorial)               | [Youtube play list](https://youtube.com/playlist?list=PLYrn63eEqAzZssgLu8Um_k1v8Pvh7-l7b)                | Pending |
 | <img width="30px" src="https://docs.hamravesh.com/img/app-icons/minio.svg">                                           | MinIO                       | [MinIO-tutorial](https://github.com/devopshobbies/MinIO-tutorial)                       | [Youtube play list](https://www.youtube.com/watch?v=y4of6U-mdVQ&list=PLYrn63eEqAzaS7mHcJh7GPOFWcLHLxlfE) | Pending |
 | <img width="30px" src="https://qph.cf2.quoracdn.net/main-qimg-618dbc6d2984d7997a31815939e8c914-pjlq">                 | NetOps                      | [NetOps Roadmap](https://github.com/devopshobbies/MinIO-tutorial)                       | [Youtube play list](https://youtube.com/playlist?list=PLYrn63eEqAzaydfpPB9tTFVTUTkneP6EN)                | Pending |
